@@ -1,4 +1,4 @@
-## SPRING BOOT REST API BASICS
+## SPRING BOOT REST API 
 
 Tools and Technologies Used
 ===========================
